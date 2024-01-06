@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T04:22:30.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_kJucMKJUT8HGSAkwfFI" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-06T04:24:25.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3bM4vEbHynuv7qaF5xbA" version="22.1.17" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="user auth database">
-    <mxGraphModel dx="1468" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
